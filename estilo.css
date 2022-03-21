@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(249, 157, 53);
+}
+
+h2{
+  color: rgb(40, 40, 40);
+  font-style: italic;
+  font-size: 30px;
+}
+
+section{
+    background-color: rgb(251, 214, 1);
+    border-radius: 60px;
+    padding: 20px 0px;
+    margin: 10px;
+} 
